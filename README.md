@@ -17,4 +17,4 @@ when running inference, adjust array c to create image with desired attributes (
 ---
 
 ### Credits
-starting code was taken from https://github.com/timbmg/VAE-CVAE-MNIST
+starting code with MNIST was taken from https://github.com/timbmg/VAE-CVAE-MNIST
